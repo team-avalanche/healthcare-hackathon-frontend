@@ -1,0 +1,10 @@
+.qr-display{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+.qr-code{
+    width: 100px;
+}
