@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2dba5b0.css",
+    "main.js": "/static/js/main.5022d889.js",
+    "static/js/787.a8cdba7c.chunk.js": "/static/js/787.a8cdba7c.chunk.js",
+    "static/media/page-not-found-img.png": "/static/media/page-not-found-img.8f9866c7c0b1f9c05e8a.png",
+    "static/media/patient-image.png": "/static/media/patient-image.c45f33b8bc5cbc3809ea.png",
+    "static/media/recomendation-icon.svg": "/static/media/recomendation-icon.1eaee5dc1141c9b3889b8091a3a09671.svg",
+    "index.html": "/index.html",
+    "main.a2dba5b0.css.map": "/static/css/main.a2dba5b0.css.map",
+    "main.5022d889.js.map": "/static/js/main.5022d889.js.map",
+    "787.a8cdba7c.chunk.js.map": "/static/js/787.a8cdba7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2dba5b0.css",
+    "static/js/main.5022d889.js"
+  ]
+}

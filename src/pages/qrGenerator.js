@@ -6,7 +6,7 @@ const QRCodeGenerator = (props) => {
   const [jsonData, setJsonData] = useState({}); // Initialize as an object
 
   useEffect(() => {
-    const endpoint = 'http://localhost:8000/api/get-qr-data/' + props.userid;
+    const endpoint = 'https://health.sudip.me/api/get-qr-data/' + props.userid;
     fetch(endpoint)
       .then((response) => response.json())
       .then((data) => setJsonData(data))

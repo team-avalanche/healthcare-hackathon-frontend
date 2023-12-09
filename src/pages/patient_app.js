@@ -126,7 +126,7 @@ let widgets = {
         position: 1,
         mPosition: 1,
         color: "#E9F4FC",
-        link: "http://localhost:3000/verify-appointment/",
+        link: "https://health.sudip.me/verify-appointment/",
         icon: qrIcon,
         title: "Verify Appointment",
     },
